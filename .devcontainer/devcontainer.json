@@ -1,0 +1,15 @@
+// Basic Dev Container configuration for research tasks
+{
+  "name": "Research Experiment Dev Container",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "features": {
+    "ghcr.io/devcontainers/features/node:1": {}
+  },
+  "postCreateCommand": "echo 'Dev container ready.'",
+  "customizations": {
+    "vscode": {
+      "settings": {},
+      "extensions": ["GitHub.copilot"]
+    }
+  }
+}
