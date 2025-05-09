@@ -2,13 +2,13 @@
   Ref: https://www.codewars.com/kata/64fbfe2618692c2018ebbddb
    
   Task
-  Create a function that always returns True/true for every item in a given list.
+  Create a function that always returns true for every item in a given list.
   However, if an element is the word 'flick', switch to always returning the opposite boolean value.
  
   Examples
-  ['codewars', 'flick', 'code', 'wars'] ➞ [True, False, False, False]
-  ['flick', 'chocolate', 'adventure', 'sunshine'] ➞ [False, False, False, False]
-  ['bicycle', 'jarmony', 'flick', 'sheep', 'flick'] ➞ [True, True, False, False, True]
+  ['codewars', 'flick', 'code', 'wars'] ➞ [true, false, false, false]
+  ['flick', 'chocolate', 'adventure', 'sunshine'] ➞ [false, false, false, false]
+  ['bicycle', 'jarmony', 'flick', 'sheep', 'flick'] ➞ [true, true, false, false, true]
  
   Notes
   "flick" will always be given in lowercase.
