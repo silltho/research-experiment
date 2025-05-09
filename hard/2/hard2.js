@@ -1,4 +1,6 @@
 /*
+  Ref: https://www.codewars.com/kata/6425a1463b7dd0001c95fad4
+
   Task
   Write a function calculate that, given a list of rectangles, finds the area
   of their union.
