@@ -1,0 +1,21 @@
+{
+  "name": "research-experiment",
+  "version": "1.0.0",
+  "description": "A package for research methods and study design experiments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest",
+    "easy1": "vitest easy/1",
+    "easy2": "vitest easy/2",
+    "medium1": "vitest medium/1",
+    "medium2": "vitest medium/2",
+    "hard1": "vitest hard/1",
+    "hard2": "vitest hard/2"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "vitest": "3.1.3"
+  }
+}
