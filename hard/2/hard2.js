@@ -14,6 +14,9 @@
   Performance requirement: 10 tests with n ≤ 5000, and 10 tests with 
   n ≤ 20,000
   Coordinates: 0 ≤ xi, yi ≤ 1,000,000
+
+  Once the task is completed, please inform the researcher first and then fill out this form: 
+  https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=pd_rzP7mCkquOQY_8RydxHGCb8V2q5RNoBd8uAq644tUNkhMNFNZVTdNNURGM1g4MjBZR0JEWDdXMS4u
 */
 
 export function calculate(recs) {

@@ -14,6 +14,9 @@
   "flick" will always be given in lowercase.
   A list may contain multiple flicks.
   Switch the boolean value on the same element as the flick itself.
+
+  Once the task is completed, please inform the researcher first and then fill out this form: 
+  https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=pd_rzP7mCkquOQY_8RydxHGCb8V2q5RNoBd8uAq644tUNkhMNFNZVTdNNURGM1g4MjBZR0JEWDdXMS4u
  */
 
 export function flickSwitch(arr) {

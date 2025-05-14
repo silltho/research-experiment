@@ -12,6 +12,9 @@
   
   Note
   If the number is a multiple of both 3 and 5, only count it once.
+
+  Once the task is completed, please inform the researcher first and then fill out this form: 
+  https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=pd_rzP7mCkquOQY_8RydxHGCb8V2q5RNoBd8uAq644tUNkhMNFNZVTdNNURGM1g4MjBZR0JEWDdXMS4u
  */
 
 export function multipleOf3Or5(number) {}
